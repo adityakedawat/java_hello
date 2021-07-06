@@ -1,4 +1,4 @@
-package snippet;
+
 
 public class Hello {
 
